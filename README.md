@@ -14,6 +14,7 @@ plugins=(... tmuxinator)
 | Alias | Command          | Description              |
 | ----- | ---------------- | ------------------------ |
 | `txs` | tmuxinator start | Start Tmuxinator         |
+| `txk` | tmuxinator stop  | Stop Tmuxinator          |
 | `txo` | tmuxinator open  | Open project for editing |
 | `txn` | tmuxinator new   | Create project           |
 | `txl` | tmuxinator list  | List projects            |
